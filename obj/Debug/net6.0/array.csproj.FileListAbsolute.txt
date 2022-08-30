@@ -1,0 +1,15 @@
+G:\Drive'ım\patika\CSharp\array\bin\Debug\net6.0\array.exe
+G:\Drive'ım\patika\CSharp\array\bin\Debug\net6.0\array.deps.json
+G:\Drive'ım\patika\CSharp\array\bin\Debug\net6.0\array.runtimeconfig.json
+G:\Drive'ım\patika\CSharp\array\bin\Debug\net6.0\array.dll
+G:\Drive'ım\patika\CSharp\array\bin\Debug\net6.0\array.pdb
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.dll
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\refint\array.dll
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.pdb
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+G:\Drive'ım\patika\CSharp\array\obj\Debug\net6.0\ref\array.dll
